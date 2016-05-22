@@ -496,7 +496,6 @@
 			<Item Name="Configure serial bus.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Cryo-con/Configure serial bus.vi"/>
 			<Item Name="Empty buffer.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/GPIB/Empty buffer.vi"/>
 			<Item Name="Device type.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Device/Device type.ctl"/>
-			<Item Name="Neocera Set Point Aproach.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Neocera/Neocera Set Point Aproach.ctl"/>
 			<Item Name="Cryo-Con Get T.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Cryo-con/Cryo-Con Get T.vi"/>
 			<Item Name="Send Receive.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/GPIB/Send Receive.vi"/>
 			<Item Name="GPIB Send Receive.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/GPIB/GPIB Send Receive.vi"/>
