@@ -453,7 +453,7 @@
 			<Item Name="Mag Lab Init Device List.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Hardware/Mag Lab Init Device List.vi"/>
 			<Item Name="Mag Lab Hardware Function.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Hardware/Mag Lab Hardware Function.ctl"/>
 			<Item Name="Tick count to time stamp.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Measurement Timer/Tick count to time stamp.vi"/>
-			<Item Name="T controller parameters.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Hardware/Temperarture Controller/T controller parameters.ctl"/>
+			<Item Name="T controller parameters.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Temperature Controller/Controls/T controller parameters.ctl"/>
 			<Item Name="DBL to Result.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Mag Lab Result/DBL to Result.vi"/>
 			<Item Name="DBL Array to Result.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Mag Lab Result/DBL Array to Result.vi"/>
 			<Item Name="Log time.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Measurement Timer/Log time.ctl"/>
@@ -556,6 +556,7 @@
 			<Item Name="Abbreviate TDMS Group Channel.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/File/Abbreviate TDMS Group Channel.vi"/>
 			<Item Name="File_Group_Chan_Abbr.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/File/File_Group_Chan_Abbr.ctl"/>
 			<Item Name="Is DAQmx installed.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/NI-DAQ/Is DAQmx installed.vi"/>
+			<Item Name="Set Point Aproach.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Temperature Controller/Controls/Set Point Aproach.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Test Path" Type="EXE">
