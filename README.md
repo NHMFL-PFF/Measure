@@ -1,3 +1,3 @@
-# RUS
+# Measure
 
-NHMFL RUS applications
+NHMFL Measure framework
