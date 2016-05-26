@@ -263,6 +263,7 @@
 		<Item Name="Test format.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Mag Lab Result/Scaled I32 Array Result/Test format.vi"/>
 		<Item Name="Plot Indexes.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Mag Lab Graph/Plot Indexes.ctl"/>
 		<Item Name="Measure.cfg" Type="Document" URL="../data/Measure.cfg"/>
+		<Item Name="Lockin mode.ctl" Type="VI" URL="../../../../resonant_ultrasound/Libraries/RUS/Controls/Lockin mode.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
