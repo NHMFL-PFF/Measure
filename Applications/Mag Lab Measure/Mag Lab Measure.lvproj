@@ -133,6 +133,7 @@
 				</Item>
 				<Item Name="Spectrum Analyzer" Type="Folder">
 					<Item Name="Messages" Type="Folder">
+						<Item Name="Write Averaging time Msg.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Spectrum Analyzer Messages/Write Averaging time Msg/Write Averaging time Msg.lvclass"/>
 						<Item Name="Write Duration Msg.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Spectrum Analyzer Messages/Write Duration Msg/Write Duration Msg.lvclass"/>
 						<Item Name="Write Frequencies Msg.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Spectrum Analyzer Messages/Write Frequencies Msg/Write Frequencies Msg.lvclass"/>
 						<Item Name="Write Group Name Msg.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Spectrum Analyzer Messages/Write Group Name Msg/Write Group Name Msg.lvclass"/>
@@ -524,6 +525,8 @@
 			<Item Name="Set Point Aproach.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Temperature Controller/Controls/Set Point Aproach.ctl"/>
 			<Item Name="RP Transmit Data.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Transmit Data.vi"/>
 			<Item Name="Plot Indexes.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Mag Lab Graph/Plot Indexes.ctl"/>
+			<Item Name="RP Transceiver.lvclass" Type="LVClass" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Transceiver/RP Transceiver.lvclass"/>
+			<Item Name="RP Communicator.lvclass" Type="LVClass" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Communicator/RP Communicator.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Test Path" Type="EXE">
