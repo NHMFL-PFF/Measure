@@ -357,7 +357,6 @@
 				<Item Name="TDMS Create Scaling Information (Thermocouple).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tdmsutil.llb/TDMS Create Scaling Information (Thermocouple).vi"/>
 				<Item Name="TDMS Create Scaling Information (Polynomial).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tdmsutil.llb/TDMS Create Scaling Information (Polynomial).vi"/>
 				<Item Name="TDMS Create Scaling Information.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tdmsutil.llb/TDMS Create Scaling Information.vi"/>
-				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="NI_AAL_SigProc.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AAL_SigProc.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 			</Item>
@@ -432,7 +431,6 @@
 			<Item Name="Lock-in modulation.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Hardware/Software Lock-in/Lock-in modulation.ctl"/>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="RUS Parameters.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Measurements/RUS Measurement/RUS Parameters.ctl"/>
-			<Item Name="Record Msg.lvclass" Type="LVClass" URL="../../../Libraries/Red Pitaya/Actors/Red Pitaya Messages/Record Msg/Record Msg.lvclass"/>
 			<Item Name="Find Peaks Result.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Mag Lab Result/Find Peaks Result/Find Peaks Result.lvclass"/>
 			<Item Name="Obtain top dispatch vi.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Utilities/Obtain top dispatch vi.vi"/>
 			<Item Name="Data reduction.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/File/Controls/Data reduction.ctl"/>
@@ -451,13 +449,10 @@
 			<Item Name="Filter Device List.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Device/Filter Device List.vi"/>
 			<Item Name="Match string in array.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Utilities/Match string in array.vi"/>
 			<Item Name="Linear step array.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Utilities/Linear step array.vi"/>
-			<Item Name="Arm Msg.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Mag Lab Root Messages/Arm Msg/Arm Msg.lvclass"/>
 			<Item Name="RP Command.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Command.ctl"/>
 			<Item Name="RP Write Command.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Write Command.vi"/>
 			<Item Name="RP Read Status.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Read Status.vi"/>
-			<Item Name="RP set frequency batch.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP set frequency batch.vi"/>
 			<Item Name="RP Read RX FIFO Fast.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Read RX FIFO Fast.vi"/>
-			<Item Name="RP Read RX FIFO.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Read RX FIFO.vi"/>
 			<Item Name="Clear GPIB Timeout.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/GPIB/Clear GPIB Timeout.vi"/>
 			<Item Name="Pupulate and conf serial bus.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Instrument/Pupulate and conf serial bus.vi"/>
 			<Item Name="Configure serial bus.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Cryo-con/Configure serial bus.vi"/>
