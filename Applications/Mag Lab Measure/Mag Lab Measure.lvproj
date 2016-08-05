@@ -202,14 +202,15 @@
 			</Item>
 			<Item Name="LakeShore T Controller.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/LakeShore/Lake Shore Temperature Controller/LakeShore T Controller.lvclass"/>
 			<Item Name="Neocera.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Neocera/Neocera.lvclass"/>
-			<Item Name="Stanford Research.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Stanford Research/Stanford Research.lvclass"/>
 			<Item Name="Oxford Power Supply.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Oxford/Power supply/Oxford Power Supply.lvclass"/>
 			<Item Name="LakeShore370.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/LakeShore/LakeShore370/LakeShore370.lvclass"/>
 			<Item Name="Oxford Mercury IPS.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Oxford/Mercury IPS/Oxford Mercury IPS.lvclass"/>
 			<Item Name="Linear Research.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Linear Research/Linear Research.lvclass"/>
 			<Item Name="HP87NN.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/HP/HP87NN/HP87NN.lvclass"/>
 			<Item Name="HP counter.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/HP Counter/HP counter.lvclass"/>
+			<Item Name="Stanford Research.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/Stanford Research/Stanford Research.lvclass"/>
 			<Item Name="HPNeworkAnalyzer.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/HP/HPNetworkAnalyzer/HPNeworkAnalyzer.lvclass"/>
+			<Item Name="AH 2500.lvclass" Type="LVClass" URL="../../../Libraries/Mag Lab Measure/Hardware/AH2500/AH 2500.lvclass"/>
 		</Item>
 		<Item Name="Measurements" Type="Folder">
 			<Item Name="Meter Measurement" Type="Folder">
@@ -556,6 +557,8 @@
 			<Item Name="File_Group_Chan_Abbr.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/File/File_Group_Chan_Abbr.ctl"/>
 			<Item Name="Is DAQmx installed.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/NI-DAQ/Is DAQmx installed.vi"/>
 			<Item Name="Set Point Aproach.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Temperature Controller/Controls/Set Point Aproach.ctl"/>
+			<Item Name="RP Transmit Data.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Transmit Data.vi"/>
+			<Item Name="AH read data.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/AH/AH read data.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Test Path" Type="EXE">
@@ -615,7 +618,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{671217FE-C50E-4253-BB59-9D25976E9F62}</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Measure.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Measure/Measure.exe</Property>
