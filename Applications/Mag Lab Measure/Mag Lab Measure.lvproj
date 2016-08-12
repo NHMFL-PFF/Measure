@@ -273,8 +273,6 @@
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Reply Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Reply Msg/Reply Msg.lvclass"/>
-				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
-				<Item Name="Version To Dotted String.vi" Type="VI" URL="/&lt;vilib&gt;/_xctls/Version To Dotted String.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
@@ -411,8 +409,8 @@
 			<Item Name="Read object names.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Menu object array/Read object names.vi"/>
 			<Item Name="Write object names.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Menu object array/Write object names.vi"/>
 			<Item Name="Read Menu object array values.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Menu object array/Read Menu object array values.vi"/>
-			<Item Name="Menu object array.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Controls/Menu object array.ctl"/>
-			<Item Name="Menu object.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Controls/Menu object.ctl"/>
+			<Item Name="Menu object array.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Queued Listbox/Menu object array.ctl"/>
+			<Item Name="Menu object.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Queued Listbox/Menu object.ctl"/>
 			<Item Name="Find control by label.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Controls/Find control by label.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Populate Mag Lab Hardware List.vi" Type="VI" URL="../../../Libraries/Mag Lab Measure/Hardware/Populate Mag Lab Hardware List.vi"/>
@@ -447,7 +445,6 @@
 			<Item Name="MaxMinDecimate.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Utilities/Waveform/MaxMinDecimate.vi"/>
 			<Item Name="Make Waveform Time Array.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Utilities/Make Waveform Time Array.vi"/>
 			<Item Name="Filter Device List.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Instruments/Device/Filter Device List.vi"/>
-			<Item Name="Match string in array.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Utilities/Match string in array.vi"/>
 			<Item Name="Linear step array.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Utilities/Linear step array.vi"/>
 			<Item Name="RP Command.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Command.ctl"/>
 			<Item Name="RP Write Command.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Write Command.vi"/>
@@ -522,6 +519,12 @@
 			<Item Name="Plot Indexes.ctl" Type="VI" URL="../../../Libraries/Mag Lab Measure/Mag Lab Graph/Plot Indexes.ctl"/>
 			<Item Name="RP Transceiver.lvclass" Type="LVClass" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Transceiver/RP Transceiver.lvclass"/>
 			<Item Name="RP Communicator.lvclass" Type="LVClass" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Communicator/RP Communicator.lvclass"/>
+			<Item Name="Receiver format.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Transceiver/Receiver format.ctl"/>
+			<Item Name="RP Instrument.lvclass" Type="LVClass" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Instrument/RP Instrument.lvclass"/>
+			<Item Name="RP Read Temperature.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Read Temperature.vi"/>
+			<Item Name="RP Read Subset.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP Read Subset.vi"/>
+			<Item Name="RP calculate subset.vi" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/RP calculate subset.vi"/>
+			<Item Name="Mode.ctl" Type="VI" URL="../../../../NHMFL_Core/Libraries/Red Pitaya/Mode.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Test Path" Type="EXE">
